@@ -1,2 +1,2 @@
 my readme
-line 2
+file cp060079a.bat del2000zs1.bat : for think12 ( zszq )
