@@ -5,6 +5,18 @@ copy X:\zd_zszq\T0002\blocknew\.082.blk X:\zd_zszq\T0002\blocknew\.083.blk
 copy X:\zd_zszq\T0002\blocknew\.081.blk X:\zd_zszq\T0002\blocknew\.082.blk
 copy X:\zd_zszq\T0002\blocknew\.080.blk X:\zd_zszq\T0002\blocknew\.081.blk
 
+rem 20Ììµø·ù°ñ
+copy X:\zd_zszq\T0002\blocknew\..00108.blk X:\zd_zszq\T0002\blocknew\..00109.blk
+copy X:\zd_zszq\T0002\blocknew\..00107.blk X:\zd_zszq\T0002\blocknew\..00108.blk
+copy X:\zd_zszq\T0002\blocknew\..00106.blk X:\zd_zszq\T0002\blocknew\..00107.blk
+copy X:\zd_zszq\T0002\blocknew\..00105.blk X:\zd_zszq\T0002\blocknew\..00106.blk
+copy X:\zd_zszq\T0002\blocknew\..00104.blk X:\zd_zszq\T0002\blocknew\..00105.blk
+copy X:\zd_zszq\T0002\blocknew\..00103.blk X:\zd_zszq\T0002\blocknew\..00104.blk
+copy X:\zd_zszq\T0002\blocknew\..00102.blk X:\zd_zszq\T0002\blocknew\..00103.blk
+copy X:\zd_zszq\T0002\blocknew\..00101.blk X:\zd_zszq\T0002\blocknew\..00102.blk
+copy X:\zd_zszq\T0002\blocknew\..00100.blk X:\zd_zszq\T0002\blocknew\..00101.blk
+
+rem ÕÇÍ£°ñ
 copy X:\zd_zszq\T0002\blocknew\.078.blk X:\zd_zszq\T0002\blocknew\.079.blk
 copy X:\zd_zszq\T0002\blocknew\.077.blk X:\zd_zszq\T0002\blocknew\.078.blk
 copy X:\zd_zszq\T0002\blocknew\.076.blk X:\zd_zszq\T0002\blocknew\.077.blk
