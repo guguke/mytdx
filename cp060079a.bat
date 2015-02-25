@@ -5,6 +5,61 @@ copy X:\zd_zszq\T0002\blocknew\.082.blk X:\zd_zszq\T0002\blocknew\.083.blk
 copy X:\zd_zszq\T0002\blocknew\.081.blk X:\zd_zszq\T0002\blocknew\.082.blk
 copy X:\zd_zszq\T0002\blocknew\.080.blk X:\zd_zszq\T0002\blocknew\.081.blk
 
+rem ref(high,4)/low 
+copy X:\zd_zszq\T0002\blocknew\..00158.blk X:\zd_zszq\T0002\blocknew\..00159.blk
+copy X:\zd_zszq\T0002\blocknew\..00157.blk X:\zd_zszq\T0002\blocknew\..00158.blk
+copy X:\zd_zszq\T0002\blocknew\..00156.blk X:\zd_zszq\T0002\blocknew\..00157.blk
+copy X:\zd_zszq\T0002\blocknew\..00155.blk X:\zd_zszq\T0002\blocknew\..00156.blk
+copy X:\zd_zszq\T0002\blocknew\..00154.blk X:\zd_zszq\T0002\blocknew\..00155.blk
+copy X:\zd_zszq\T0002\blocknew\..00153.blk X:\zd_zszq\T0002\blocknew\..00154.blk
+copy X:\zd_zszq\T0002\blocknew\..00152.blk X:\zd_zszq\T0002\blocknew\..00153.blk
+copy X:\zd_zszq\T0002\blocknew\..00151.blk X:\zd_zszq\T0002\blocknew\..00152.blk
+copy X:\zd_zszq\T0002\blocknew\..00150.blk X:\zd_zszq\T0002\blocknew\..00151.blk
+
+rem ref(high,3)/low 
+copy X:\zd_zszq\T0002\blocknew\..00148.blk X:\zd_zszq\T0002\blocknew\..00149.blk
+copy X:\zd_zszq\T0002\blocknew\..00147.blk X:\zd_zszq\T0002\blocknew\..00148.blk
+copy X:\zd_zszq\T0002\blocknew\..00146.blk X:\zd_zszq\T0002\blocknew\..00147.blk
+copy X:\zd_zszq\T0002\blocknew\..00145.blk X:\zd_zszq\T0002\blocknew\..00146.blk
+copy X:\zd_zszq\T0002\blocknew\..00144.blk X:\zd_zszq\T0002\blocknew\..00145.blk
+copy X:\zd_zszq\T0002\blocknew\..00143.blk X:\zd_zszq\T0002\blocknew\..00144.blk
+copy X:\zd_zszq\T0002\blocknew\..00142.blk X:\zd_zszq\T0002\blocknew\..00143.blk
+copy X:\zd_zszq\T0002\blocknew\..00141.blk X:\zd_zszq\T0002\blocknew\..00142.blk
+copy X:\zd_zszq\T0002\blocknew\..00140.blk X:\zd_zszq\T0002\blocknew\..00141.blk
+
+rem ref(high,2)/low 
+copy X:\zd_zszq\T0002\blocknew\..00138.blk X:\zd_zszq\T0002\blocknew\..00139.blk
+copy X:\zd_zszq\T0002\blocknew\..00137.blk X:\zd_zszq\T0002\blocknew\..00138.blk
+copy X:\zd_zszq\T0002\blocknew\..00136.blk X:\zd_zszq\T0002\blocknew\..00137.blk
+copy X:\zd_zszq\T0002\blocknew\..00135.blk X:\zd_zszq\T0002\blocknew\..00136.blk
+copy X:\zd_zszq\T0002\blocknew\..00134.blk X:\zd_zszq\T0002\blocknew\..00135.blk
+copy X:\zd_zszq\T0002\blocknew\..00133.blk X:\zd_zszq\T0002\blocknew\..00134.blk
+copy X:\zd_zszq\T0002\blocknew\..00132.blk X:\zd_zszq\T0002\blocknew\..00133.blk
+copy X:\zd_zszq\T0002\blocknew\..00131.blk X:\zd_zszq\T0002\blocknew\..00132.blk
+copy X:\zd_zszq\T0002\blocknew\..00130.blk X:\zd_zszq\T0002\blocknew\..00131.blk
+
+rem ref(high,1)/low 
+copy X:\zd_zszq\T0002\blocknew\..00128.blk X:\zd_zszq\T0002\blocknew\..00129.blk
+copy X:\zd_zszq\T0002\blocknew\..00127.blk X:\zd_zszq\T0002\blocknew\..00128.blk
+copy X:\zd_zszq\T0002\blocknew\..00126.blk X:\zd_zszq\T0002\blocknew\..00127.blk
+copy X:\zd_zszq\T0002\blocknew\..00125.blk X:\zd_zszq\T0002\blocknew\..00126.blk
+copy X:\zd_zszq\T0002\blocknew\..00124.blk X:\zd_zszq\T0002\blocknew\..00125.blk
+copy X:\zd_zszq\T0002\blocknew\..00123.blk X:\zd_zszq\T0002\blocknew\..00124.blk
+copy X:\zd_zszq\T0002\blocknew\..00122.blk X:\zd_zszq\T0002\blocknew\..00123.blk
+copy X:\zd_zszq\T0002\blocknew\..00121.blk X:\zd_zszq\T0002\blocknew\..00122.blk
+copy X:\zd_zszq\T0002\blocknew\..00120.blk X:\zd_zszq\T0002\blocknew\..00121.blk
+
+rem 连跌天数 
+copy X:\zd_zszq\T0002\blocknew\..00118.blk X:\zd_zszq\T0002\blocknew\..00119.blk
+copy X:\zd_zszq\T0002\blocknew\..00117.blk X:\zd_zszq\T0002\blocknew\..00118.blk
+copy X:\zd_zszq\T0002\blocknew\..00116.blk X:\zd_zszq\T0002\blocknew\..00117.blk
+copy X:\zd_zszq\T0002\blocknew\..00115.blk X:\zd_zszq\T0002\blocknew\..00116.blk
+copy X:\zd_zszq\T0002\blocknew\..00114.blk X:\zd_zszq\T0002\blocknew\..00115.blk
+copy X:\zd_zszq\T0002\blocknew\..00113.blk X:\zd_zszq\T0002\blocknew\..00114.blk
+copy X:\zd_zszq\T0002\blocknew\..00112.blk X:\zd_zszq\T0002\blocknew\..00113.blk
+copy X:\zd_zszq\T0002\blocknew\..00111.blk X:\zd_zszq\T0002\blocknew\..00112.blk
+copy X:\zd_zszq\T0002\blocknew\..00110.blk X:\zd_zszq\T0002\blocknew\..00111.blk
+
 rem 20天跌幅榜
 copy X:\zd_zszq\T0002\blocknew\..00108.blk X:\zd_zszq\T0002\blocknew\..00109.blk
 copy X:\zd_zszq\T0002\blocknew\..00107.blk X:\zd_zszq\T0002\blocknew\..00108.blk

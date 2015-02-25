@@ -2,6 +2,11 @@ rem 2013.08.24 H5L H4L H3L H2L H1L max
 copy X:\zd_zszq\T0002\blocknew\blk.blk X:\zd_zszq\T0002\blocknew\TJG.blk
 
 copy X:\zd_zszq\T0002\blocknew\blk.blk X:\zd_zszq\T0002\blocknew\..00100.blk
+copy X:\zd_zszq\T0002\blocknew\blk.blk X:\zd_zszq\T0002\blocknew\..00110.blk
+copy X:\zd_zszq\T0002\blocknew\blk.blk X:\zd_zszq\T0002\blocknew\..00120.blk
+copy X:\zd_zszq\T0002\blocknew\blk.blk X:\zd_zszq\T0002\blocknew\..00130.blk
+copy X:\zd_zszq\T0002\blocknew\blk.blk X:\zd_zszq\T0002\blocknew\..00140.blk
+copy X:\zd_zszq\T0002\blocknew\blk.blk X:\zd_zszq\T0002\blocknew\..00150.blk
 
 copy X:\zd_zszq\T0002\blocknew\blk.blk X:\zd_zszq\T0002\blocknew\.060.blk
 copy X:\zd_zszq\T0002\blocknew\blk.blk X:\zd_zszq\T0002\blocknew\.080.blk
